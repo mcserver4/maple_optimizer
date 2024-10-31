@@ -1,0 +1,19 @@
+{
+  "name": "maple_optimizer",
+  "displayName": "maple_optimizer",
+  "version": "0.0.1",
+  "description": "Describe this Package",
+  "dependencies": {},
+  "gitDependencies": {},
+  "vpmDependencies": {
+    "com.vrchat.avatars": "3.7.2"
+  },
+  "author": {
+    "name": "MapleRin",
+    "email": "2289892426@qq.com",
+    "url": ""
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "localPath": "E:\\Unity Project\\MapleAvatarDevProject\\Packages\\maple_optimizer"
+}
